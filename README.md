@@ -6,20 +6,6 @@ This repository is affilated with COP4610 at Florida State University and has be
 * Stanley Vossler
 * Matthew Echenique
 
-## Division of Labor
-|Part|Programmers|
-|---|---|
-|Parsing : Part 1|Carlos, Stanley|
-|Environment Variables : Part 2 |Carlos, Matthew|
-|Prompt : Part 3|Carlos, Matthew, Stanley|
-|Tilde Expansion : Part 4|Stanley, Matthew|
-|$PATH Search : Part 5|Stanley, Matthew|
-|External Command Execution : Part 6|Stanley, Matthew|
-|Input/Output Redirection : Part 7|Carlos, Stanley|
-|Piping : Part 8| Carlos, Stanley|
-|Background Processing : Part 9| Carlos, Stanley, Matthew|
-|Built-in Functions : Part 10| Carlos, Stanley Matthew|
-
 ## Project Contributions
 |Part|Programmers|
 |---|---|
